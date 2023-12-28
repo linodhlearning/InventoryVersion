@@ -1,7 +1,9 @@
 # Inventory
-versioning applied
+Web Api Versioning applied and following nugets used
+- Asp.Versioning.Mvc.ApiExplorer
+- Swashbuckle.AspNetCore
 
-http header "x-api-version" can be set to choose the necessary version of the api
+http header "_x-api-version_" can be set to choose the necessary version of the api
 default is setup 
 
 DefaultApiVersion is set to V 2.0  in code
